@@ -11,4 +11,3 @@ class Evaluation:
         return classification_report(self.y_test,self.y_pred)
     def confusion_matrix(self):
         return confusion_matrix(self.y_test,self.y_pred)
-    
