@@ -13,7 +13,7 @@ The focus of this project is not only on model performance, but also on:
 ---
 
 ## 📂 Project Structure
-
+```text
 hr-employee-attrition/
 ├── data/
 │ └── HR_attrition_data.csv
@@ -27,7 +27,7 @@ hr-employee-attrition/
 │ └── pipeline.py
 ├── .gitignore
 └── README.md
-
+```
 
 ---
 
