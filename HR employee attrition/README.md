@@ -17,6 +17,7 @@ The focus of this project is not only on model performance, but also on:
 hr-employee-attrition/
 
 ├── data/
+|
 │ └── HR_attrition_data.csv
 ├── notebooks/
 │ └── exploration.ipynb
